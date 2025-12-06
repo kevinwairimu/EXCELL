@@ -35,10 +35,9 @@ This project covers:
 ---
 
 ## 📊 Key Insights  
-- **Seasonality:** Revenue peaks consistently in Q4, suggesting strong holiday demand.  
-- **Category trends:** Category A shows steady growth year‑over‑year, while Category B fluctuates seasonally.  
-- **Granularity:** Monthly breakdown revealed short‑term dips masked in quarterly reporting.  
-
+- **Seasonality:** 
+- **Category trends:** 
+- **Granularity:** 
 ---
 
 ## ✅ Recommendations  

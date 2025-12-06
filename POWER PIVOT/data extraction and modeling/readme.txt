@@ -41,19 +41,17 @@ This project covers:
 ---
 
 ## 📊 Key Insights  
-- **Regional trends:** Region B consistently outperformed others, contributing ~40% of total sales volume.  
-- **Channel performance:** Online channels showed higher transaction counts but lower average quantities per order.  
-- **Product mix:** Category X generated the highest revenue, while Category Y had strong transaction volume but lower margins.  
-- **Scalability:** Adding new data files seamlessly updated the model, proving the workflow’s efficiency.  
-
+- **Regional trends:**  
+- **Channel performance:**  
+- **Product mix:**   
+- **Scalability:** 
 ---
 
 ## ✅ Recommendations  
-- **Channel strategy:** Focus on increasing average order size in online channels through bundling or promotions.  
-- **Regional expansion:** Replicate Region B’s successful strategies in underperforming regions.  
-- **Product optimization:** Reassess pricing or marketing for Category Y to improve profitability.  
-- **Data governance:** Continue using folder‑based automation to ensure timely updates and reduce manual errors.  
-
+- **Channel strategy:**
+- **Regional expansion:**   
+- **Product optimization:**  
+- **Data governance:** 
 ---
 
 ## 🛠️ Tools & Skills  

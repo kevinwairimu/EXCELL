@@ -37,16 +37,16 @@ This project covers:
 ---
 
 ## 📊 Key Insights  
-- **Channel efficiency:** Online channels had the highest transaction counts but lower average quantities, indicating smaller basket sizes.  
-- **Regional performance:** Region C showed steady growth in transaction volume, while Region A plateaued after 2016.  
-- **Product mix:** Category Z had fewer transactions but higher average quantities, suggesting bulk purchasing behavior.  
+- **Channel efficiency:**  
+- **Regional performance:** 
+- **Product mix:** 
 
 ---
 
 ## ✅ Recommendations  
-- **Channel strategy:** Introduce bundle offers in online channels to increase average order size.  
-- **Regional focus:** Invest in Region C’s growth trajectory with targeted campaigns.  
-- **Product optimization:** Leverage bulk‑buying behavior in Category Z with loyalty discounts or wholesale pricing.  
+- **Channel strategy:**   
+- **Regional focus:**   
+- **Product optimization:** 
 
 ---
 

@@ -30,18 +30,19 @@ The dashboard enables users to:
 ---
 
 ## 📊 Key Insights  
-- **Regional imbalance:** Region A accounts for 45% of employees, suggesting over‑concentration in one area.  
-- **Performance distribution:** 20% of employees consistently score below average, highlighting potential training needs.  
-- **Gender gap:** Male employees earn on average 12% more than female employees in similar roles.  
-- **Leave patterns:** High leave frequency in Department X may indicate workload or morale issues.  
+- **Regional imbalance:** Central region accounts for more employees, suggesting over‑concentration in one area and south region accounts less employees.  
+- **Performance distribution:**employees consistently score an average of 2.5 our of 6, highlighting potential training needs.  
+- **salary gap:** hr specialist earn on average more than  employees in other roles.  
+- **Leave patterns:** High leave frequency by managers & hr specialist may indicate workload or morale issues or easly access to leave.  
+- **Age distribution:** High number of female in the lower age group while male are more in the upper age group suggesting hiring process is balancing age_gender distribution 
 
 ---
 
 ## ✅ Recommendations  
 - **Talent diversification:** Expand hiring in underrepresented regions to balance workforce distribution.  
 - **Training programs:** Implement targeted development initiatives for low‑performing employees.  
-- **Compensation review:** Conduct salary audits to address gender pay disparities.  
-- **Workload management:** Investigate Department X’s leave trends and adjust staffing or policies accordingly.  
+- **Compensation review:** Conduct salary audits to address  pay disparities.  
+- **Leaves policy management:** Investigate leave trends and adjust staffing or policies accordingly.  
 
 ---
 

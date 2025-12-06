@@ -35,16 +35,20 @@ The dashboard enables users to:
 ---
 
 ## 📊 Key Insights  
-- The **top 5 customers contribute over 35% of total revenue**, highlighting dependency risk.  
-- **Country X consistently underperforms**, suggesting untapped market potential or distribution challenges.  
-- **Dark roast coffee generates the highest revenue share**, indicating strong consumer preference.  
+- The top 5 customers contribute over 30% of total revenue, highlighting dependency risk.  
+- Ireland & united kingdom are reporting average sales, suggesting untapped market potential or distribution challenges. 
+- Robosta coffee generates the lowest revenue share, indicating weak consumer preference, while Liberia & excelica generates the highest revenue 
+- Dark roast coffee generates the highest revenue share, indicating weak consumer preference.  
+- 2.5 kg coffee size generates the highest revenue share, indicating strong consumer preference. 
+- Between March & september the sales are high
 
 ---
 
 ## ✅ Recommendations  
-- **Diversify customer base** to reduce reliance on a small group of high‑value clients.  
-- **Target marketing and distribution efforts** in underperforming countries to capture growth opportunities.  
-- **Expand product focus on dark roast varieties** while monitoring emerging trends in other categories.  
+- Diversify customer base to reduce reliance on a small group of high‑value clients.  
+- Target marketing and distribution efforts in underperforming countries to capture growth opportunities.  
+- Expand product focus on dark roast varieties while monitoring emerging trends in other categories.
+- Stocking 2.5 kg size more in the shops
 
 ---
 
